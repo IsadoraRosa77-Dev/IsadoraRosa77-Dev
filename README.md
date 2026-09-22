@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou a Isadora Rosa!
+## 👋 Olá, eu sou a Isadora Rosa!
+
+🌐 **Languages:** [🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
+
+---
 
 🚀 **Desenvolvedora em Formação | Automação, Green IT, IoT & Dados**
 
@@ -8,7 +12,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Estou construindo minha base em desen
 
 ### 🌿 Áreas de Interesse & Foco
 
--  🌱 **Green IT & Tecnologia Sustentável:** Desenvolvimento de sistemas e rotinas focados na eficiência operacional e sustentabilidade no uso de recursos computacionais.
+- 🌱 **Green IT & Tecnologia Sustentável:** Desenvolvimento de sistemas e rotinas focados na eficiência operacional e sustentabilidade no uso de recursos computacionais.
 - 🤖 **Automação & IoT (Internet das Coisas):** Criação de scripts de automação e projetos com sistemas embarcados e microcontroladores (ESP32).
 - 🔒 **Software Seguro:** Aplicação de boas práticas de desenvolvimento limpo e segurança da informação desde o início do código.
 - 📊 **Análise de Dados:** Transformando dados em insights para tomada de decisão e otimização de processos.
